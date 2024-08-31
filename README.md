@@ -1,4 +1,3 @@
-ColorApp
 ColorApp is an Android application developed as an assignment for Janitri Innovations. The app follows the MVVM architecture pattern and leverages Jetpack Compose for the user interface. It allows users to manage a list of colors, with functionalities for local storage, offline access, and data synchronization with a cloud database.
 
 Features
