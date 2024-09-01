@@ -3,6 +3,10 @@ ColorApp is an Android application developed as an assignment for Janitri Innova
 Features
 MVVM Architecture: The app follows the Model-View-ViewModel (MVVM) pattern for a clean separation of concerns and maintainable code.
 
+Screenshot:
+![Screenshot 2024-09-01 215515](https://github.com/user-attachments/assets/4fa8eb43-581e-4557-bc75-7275449d4719)
+
+
 Offline Storage: Colors are stored locally using Room Database, ensuring that the color list is accessible even without an internet connection.
 
 Random Color Generation: Users can generate and add random colors with parameters such as color code and timestamp.
